@@ -8,7 +8,7 @@
 6. Print the contents of the file.
 7. Open the even.txt file in append mode.
 8. Open the odd.txt file in append mode.
-9. Loop through the numbers.txt file.
+9. Loop through the input.txt file.
 10. Check if the number is even or odd.
 11. If the number is even, write it to the even.txt file.
 12. If the number is odd, write it to the odd.txt file.
